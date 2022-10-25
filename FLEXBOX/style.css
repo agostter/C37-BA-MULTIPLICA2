@@ -1,0 +1,21 @@
+.contenedor{
+    display: flex;
+    flex-flow: row wrap ;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+    
+    background-color: antiquewhite;
+    width: 600px;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.elemento1,.elemento2,.elemento3,.elemento4{
+    background-color: azure;
+    height: 75px;
+    width: 75px;
+    padding: 10px;
+    margin: 10px;
+}

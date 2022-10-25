@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+span{
+    color:blue;
+    font-weight: bold;
+}
+
+p{
+    font-size: 18px;
+    margin-top: 25px ;
+    margin-left: 25px;
+}
+
+div{
+    height: 500px;
+    width: 600px;
+    background-color: aqua;  
+}
+
+img{
+    width: 550px;
+    margin-left: 25px;
+    background-color:
+}
